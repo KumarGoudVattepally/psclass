@@ -79,22 +79,22 @@
 //     break;
 //   }
 // }
-let card = "sbi";
-amount = 10000;
-switch (amount) {
-  case 10000:
-    switch (card) {
-      case "hdfc":
-        console.log("10%");
-        break;
-      case "sbi":
-        console.log("5%");
-        break;
-      default:
-        console.log("noo");
-    }
-    break;
-  default:
-    console.log("no  10k");
-    break;
-}
+// let card = "sbi";
+// amount = 10000;
+// switch (amount) {
+//   case 10000:
+//     switch (card) {
+//       case "hdfc":
+//         console.log("10%");
+//         break;
+//       case "sbi":
+//         console.log("5%");
+//         break;
+//       default:
+//         console.log("noo");
+//     }
+//     break;
+//   default:
+//     console.log("no  10k");
+//     break;
+// }
